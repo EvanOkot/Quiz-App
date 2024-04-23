@@ -19,6 +19,6 @@ document.getElementById('quizForm').addEventListener('submit', function(event) {
         score += 1;
     }
 
-    // Show the score
+    // Show the score you got
     alert("Your score is: " + score + "/2");
 });
